@@ -39,22 +39,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-codegenlib-master": "src-codegenlib-master"
+        "src-codegenlib-v1_1_8": "src-codegenlib-v1_1_8"
       }
     },
-    "src-codegenlib-master": {
+    "src-codegenlib-v1_1_8": {
       "flake": false,
       "locked": {
-        "lastModified": 1662145000,
-        "narHash": "sha256-Zvgc9DYeXpjYrdPPFmLzkSGXaeySc/G6A+wQJ4eNU0Q=",
+        "lastModified": 1662143552,
+        "narHash": "sha256-ABOYHOSgNGslOi04AAg61Pbq1dagcR6KGpIta/jQBgU=",
         "owner": "Mythical-Forest-Collective",
         "repo": "CodeGenLib",
-        "rev": "5d730f501d70c37f84b72b7fc33023e641756bdc",
+        "rev": "45e85b9fd77a2e31d35532d2b286e82140c49668",
         "type": "github"
       },
       "original": {
         "owner": "Mythical-Forest-Collective",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v1.1.8",
         "repo": "CodeGenLib",
         "type": "github"
       }
